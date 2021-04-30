@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 欢迎！
 
 You can use the [editor on GitHub](https://github.com/Quandong-Zhang/Quandong-Zhang.GitHub.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
